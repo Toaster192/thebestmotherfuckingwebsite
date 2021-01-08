@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Best Motherfucking Website',
-    description: 'Your motherfucking websites got nothing compared to this beauty.',
+    title: 'Toasty website',
+    description: 'Clickity clack.',
     author: {
-      name: 'Resi Respati',
-      url: 'https://twitter.com/resir014',
-      email: 'resir014@gmail.com'
+      name: 'Ondrej Kinst',
+      url: 'https://github.com/toaster192',
+      email: 'toastercz@gmail.com'
     },
-    siteUrl: 'https://thebestmotherfuckingwebsite.co'
+    siteUrl: 'https://toaster.name'
   },
   plugins: [
     {
@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://thebestmotherfuckingwebsite.co'
+    siteUrl: 'https://toaster.name'
       }
     },
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-11448343-6'
+        trackingId: 'G-6WF0EECH06'
       }
     },
     'gatsby-transformer-json',
