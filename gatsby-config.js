@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Toasty website',
+    title: 'Keebs page',
     description: 'Clickity clack.',
     author: {
       name: 'Ondrej Kinst',
