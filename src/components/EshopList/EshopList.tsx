@@ -9,7 +9,7 @@ import { RedditCreditBadge } from '../RedditCreditBadge'
 
 import styles from './EshopList.module.scss'
 
-import ToasterPlanckBuild from './ToasterPlanckBuild.png'
+import ToasterPlanckBuild from './ToasterPlanckBuild.jpg'
 
 export const EshopList = () => (
   <FullScreenSection name="eshopList">
