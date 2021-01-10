@@ -10,24 +10,18 @@ export const Footer = () => (
       <hr className={styles.footerRule} />
       <p>
         <small>
-          Inspired by{' '}
-          <a href="http://motherfuckingwebsite.com/" target="_blank" rel="noopener noreferrer">
-            these
-          </a>{' '}
-          <a href="http://bettermotherfuckingwebsite.com/" target="_blank" rel="noopener noreferrer">
-            motherfucking
-          </a>{' '}
-          <a href="http://evenbettermotherfucking.website/" target="_blank" rel="noopener noreferrer">
-            websites
+          Template from {' '}
+          <a href="https://thebestmotherfuckingwebsite.co/" target="_blank" rel="noopener noreferrer">
+            The Best Motherfucking Website
           </a>
           .
         </small>
       </p>
       <p>
         <small>
-          Images from{' '}
-          <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">
-            Unsplash
+          Images <strike>stolen</strike> from{' '}
+          <a href="https://reddit.com/r/mechanicalkeyboards/" target="_blank" rel="noopener noreferrer">
+            Reddit
           </a>
           . Built with{' '}
           <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">

@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 
 import { Intro } from '../components/Intro'
 import { EshopList } from '../components/EshopList'
+import { Footer } from '../components/Footer'
 import IndexLayout from '../layouts'
 
 const IndexPage: React.FC = () => {
@@ -11,6 +12,7 @@ const IndexPage: React.FC = () => {
       <Helmet meta={[{ property: 'og:url', content: 'https://keebs.page/index.html' }]} />
       <Intro />
       <EshopList />
+      <Footer />
     </IndexLayout>
   )
 }
