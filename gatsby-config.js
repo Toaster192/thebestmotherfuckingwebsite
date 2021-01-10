@@ -7,7 +7,7 @@ module.exports = {
       url: 'https://github.com/toaster192',
       email: 'toastercz@gmail.com'
     },
-    siteUrl: 'https://toaster.name'
+    siteUrl: 'https://keebs.page'
   },
   plugins: [
     {
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-    siteUrl: 'https://toaster.name'
+    siteUrl: 'https://keebs.page'
       }
     },
     {
