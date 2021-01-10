@@ -17,7 +17,7 @@ export const EshopList = () => (
       <Row reverse style={{ paddingTop: '4rem', paddingBottom: '4rem' }}>
         <Col>
           <div className={styles.eshopListBox}>
-            <h2>Keebs eshops.</h2>
+            <h2>E-Shops:</h2>
             <p>
               <strong>Europe:</strong>
             </p>
