@@ -17,13 +17,11 @@ export const Masthead: React.SFC = () => (
       <div className={styles.mastheadInner}>
         <div className={styles.mastheadTitle}>
           <button type="button" onClick={scrollToTop}>
-            <span className={styles.brand}>■</span> TBMFW
+            <span className={styles.brand}>■</span> KEEBS
           </button>
         </div>
         <nav className={styles.mastheadNav}>
-          <MastheadNavLink to="about">About</MastheadNavLink>
-          <MastheadNavLink to="features">Features</MastheadNavLink>
-          <MastheadNavLink to="epilogue">Epilogue</MastheadNavLink>
+          <MastheadNavLink to="Eshops">Eshops</MastheadNavLink>
         </nav>
       </div>
     </Container>
