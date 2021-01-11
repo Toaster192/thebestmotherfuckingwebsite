@@ -21,6 +21,7 @@ export const Masthead: React.SFC = () => (
           </button>
         </div>
         <nav className={styles.mastheadNav}>
+          <MastheadNavLink to="about">Mechanical Keyboards?</MastheadNavLink>
           <MastheadNavLink to="eshopList">E-shops</MastheadNavLink>
         </nav>
       </div>

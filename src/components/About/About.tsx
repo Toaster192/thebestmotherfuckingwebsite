@@ -6,35 +6,25 @@ import { FullScreenSection } from '../FullScreenSection'
 export const About = () => (
   <FullScreenSection name="about">
     <Container>
-      <h1>LIKE SERIOUSLY, DOES IT EVEN FUCKING MATTER?</h1>
+      <h1>WHAT ARE MECHANICAL KEYBOARDS?</h1>
       <p>
-        If you look at the granddaddies of motherfucking websites,{' '}
-        <a href="http://motherfuckingwebsite.com" target="_blank" rel="noopener noreferrer">
-          every
-        </a>{' '}
-        <a href="http://bettermotherfuckingwebsite.com" target="_blank" rel="noopener noreferrer">
-          single
-        </a>{' '}
-        <a href="http://evenbettermotherfucking.website" target="_blank" rel="noopener noreferrer">
-          one
-        </a>{' '}
-        of them say that websites are bloated, and therefore need to look fugly to stay lightweight. <strong>What a stupid idea.</strong>
+      idk
       </p>
       <p>
-        You guys fucking complain about page load while trying to load YouTube from your{' '}
-        <a href="https://fiber.google.com/" target="_blank" rel="noopener noreferrer">
-          Google Fiber
-        </a>{' '}
-        whereas I, a third-world country peasant, would cry tears of actual joy if true broadband connection would ever reach us. Y&apos;all
-        keep trying to pretend that page bloat is a big fucking issue, and that the existence of JavaScript has become a bane to
-        humanity&apos;s shitty existence, yet forgot that web performance is something that requires some TLC and actual fucking effort, and
-        all of the page bloat hoohah doesn&apos;t even matter as much anymore.
+      Here's a TODO list tho:
       </p>
+      <ul>
+        <li>Differences between 40% / 60% / TKL etc.</li>
+        <li>Why would you want less than a 100%?</li>
+        <li>Split, Ortho and ergonomics?</li>
+        <li>What makes a keyboard?</li>
+        <li>1 section for each component - Case, PCB, keycaps (profiles -
+        https://www.keycaps.info/), switches</li>
+      </ul>
       <p>
-        This is where <em>The Best Motherfucking Website</em> ― <strong>TBMFW</strong> ― comes in. To prove all you fuckers wrong, plus it
-        also works as an eye bleach.
+      If there is any topic you'd want to write about / anything you want to
+      change or add, let me know
       </p>
-      <p>Now I know you&apos;re probably thinking, really?</p>
     </Container>
   </FullScreenSection>
 )
