@@ -27,7 +27,7 @@ export const Footer = () => (
           <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">
             Gatsby
           </a>
-          .
+          . By Toaster (Discord: Toaster#1111, Email: toastercz@gmail.com)
         </small>
       </p>
     </Container>
