@@ -18,32 +18,28 @@ export const EshopList = () => (
         <Col>
           <div className={styles.eshopListBox}>
             <h2>E-Shops:</h2>
-            <p>
-              <strong>Europe:</strong>
-            </p>
+            <h3>
+              Europe:
+            </h3>
             <ul>
               <li><a href="https://keygem.store/">Keygem</a></li>
               <li><a href="https://candykeys.com/">CandyKeys</a></li>
               <li><a href="https://mykeyboard.eu/">MyKeyboard</a></li>
+              <li><a href="https://42keebs.eu/">42keebs</a> (Czech)</li>
+              <li><a href="https://korabrand.xyz/">Korabrand</a> (Slovak)</li>
             </ul>
-            <p>
-              <strong>Czechia:</strong>
-            </p>
-            <ul>
-              <li><a href="https://42keebs.eu/">42keebs</a></li>
-            </ul>
-            <p>
-              <strong>China:</strong>
-            </p>
+            <h3>
+              China:
+            </h3>
             <ul>
               <li><a href="https://kbdfans.com/">Kbdfans</a></li>
               <li><a href="https://kprepublic.com/">KP_Republic</a></li>
               <li><a href="https://www.banggood.com/">Banggood</a></li>
               <li><a href="https://www.aliexpress.com/">AliExpress</a></li>
             </ul>
-            <p>
-              <strong>US:</strong>
-            </p>
+            <h3>
+              US:
+            </h3>
             <ul>
               <li><a href="https://drop.com/">Drop</a></li>
               <li><a href="https://novelkeys.xyz/">NovelKeys</a></li>
